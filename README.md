@@ -55,8 +55,10 @@ predict_message("Congratulations! You've won a free ticket.")
 - Use Deep Learning (LSTM/BERT) for better accuracy
 - Train on larger, real-world email datasets
 - Build a web interface using Flask or Streamlit
+
 🧑‍💻 Author
 Dibyajyoti Dutta
 Project to practice Machine Learning on text data (Spam/Ham filtering)
+
 📄 License
 MIT License — feel free to use and improve!
