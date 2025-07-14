@@ -76,7 +76,7 @@ def predict_message(message):
     
     return "Spam ❌" if prediction[0] == 0 else "Not Spam ✅"
 
-# Example
+Example
 predict_message("Congratulations! You've won a free ticket.")
 
 🛠️ How to Run
